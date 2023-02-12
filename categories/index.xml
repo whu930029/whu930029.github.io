@@ -1,21 +1,42 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - 夜綾閒暇隨筆</title>
+        <title>Categories - Category - 夜綾隨筆</title>
         <link>http://whu930029.github.io/categories/</link>
-        <description>Categories - Category - 夜綾閒暇隨筆</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sun, 27 Mar 2022 20:51:53 &#43;0800</lastBuildDate><atom:link href="http://whu930029.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>琉璃之境</title>
-    <link>http://whu930029.github.io/categories/%E7%90%89%E7%92%83%E4%B9%8B%E5%A2%83/</link>
-    <pubDate>Sun, 27 Mar 2022 20:51:53 &#43;0800</pubDate>
+        <description>Categories - Category - 夜綾隨筆</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Fri, 09 Sep 2022 01:00:51 &#43;0800</lastBuildDate><atom:link href="http://whu930029.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>遊記</title>
+    <link>http://whu930029.github.io/categories/%E9%81%8A%E8%A8%98/</link>
+    <pubDate>Fri, 09 Sep 2022 01:00:51 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://whu930029.github.io/categories/%E7%90%89%E7%92%83%E4%B9%8B%E5%A2%83/</guid>
+    <guid>http://whu930029.github.io/categories/%E9%81%8A%E8%A8%98/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>日記</title>
+    <link>http://whu930029.github.io/categories/%E6%97%A5%E8%A8%98/</link>
+    <pubDate>Mon, 05 Sep 2022 21:48:11 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://whu930029.github.io/categories/%E6%97%A5%E8%A8%98/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>crochet</title>
+    <link>http://whu930029.github.io/categories/crochet/</link>
+    <pubDate>Tue, 15 Mar 2022 20:31:25 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://whu930029.github.io/categories/crochet/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>隨筆</title>
     <link>http://whu930029.github.io/categories/%E9%9A%A8%E7%AD%86/</link>
-    <pubDate>Sat, 30 Oct 2021 21:48:11 &#43;0800</pubDate>
+    <pubDate>Mon, 31 Aug 2020 22:17:39 &#43;0800</pubDate>
     <author>Author</author>
     <guid>http://whu930029.github.io/categories/%E9%9A%A8%E7%AD%86/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>琉璃之境</title>
+    <link>http://whu930029.github.io/categories/%E7%90%89%E7%92%83%E4%B9%8B%E5%A2%83/</link>
+    <pubDate>Thu, 27 Oct 2016 20:51:53 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://whu930029.github.io/categories/%E7%90%89%E7%92%83%E4%B9%8B%E5%A2%83/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
